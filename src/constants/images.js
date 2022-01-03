@@ -8,6 +8,7 @@ import photo7 from '../assets/images/photo7.jpeg';
 import menu from '../assets/images/menu.png';
 import women from '../assets/images/women.png';
 import empty from '../assets/images/Empty.jpg';
+import plus from '../assets/images/plus.png';
 
 export default {
   photo1,
@@ -20,4 +21,5 @@ export default {
   menu,
   women,
   empty,
+  plus,
 };

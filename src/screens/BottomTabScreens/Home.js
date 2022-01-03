@@ -143,7 +143,7 @@ const PRODUCT = [
     image: photo2,
     price: '699',
     categoryId: 6,
-    categoryName: 'Гутал',
+    categoryName: 'Малгай',
     count: 1,
   },
 ];
